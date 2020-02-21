@@ -1,0 +1,35 @@
+.m {
+	&t-1 {
+		margin-top: 30px;
+	}
+
+	&b-0 {
+		margin-bottom: 0px;
+	}
+
+	&x-n1 {
+		margin-right: -15px;
+		margin-left: -15px;
+	}
+
+	&x-auto {
+		margin-left: auto;
+		margin-right: auto;
+	}	
+}
+
+.p {
+	&t-1 {
+		padding-top: 20px;
+	}
+
+	&x-0 {
+		padding-left: 0 !important;
+		padding-right: 0 !important;
+	}
+
+	&y-1 {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+}
